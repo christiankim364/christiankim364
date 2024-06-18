@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning to improve some of my skills
 - 💞️ I’m looking to collaborate on Django website
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
 
 <!---
 christiankim364/christiankim364 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
