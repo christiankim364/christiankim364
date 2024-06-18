@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christian Kim
 - 👀 I’m interested in HTML, CSS, Django, and Cybersecurity
-- 🌱 I’m currently learning to improve some of my skills to obtain a job
+- 🌱 I’m currently learning to improve some of my skills
 - 💞️ I’m looking to collaborate on Django website
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
