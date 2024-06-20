@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christian Kim, I created this github after following Maxx Potential's recommendation for "Introduction to the Command Line" and "Make a Website". While I am a beginner and only have a basic level knowledge of html and css, I am always willing to improve. Also I have never used python before, or built a python based web application before this, but I believe having a growth mindset and building new skills will help me in the long run! I hope you enjoy my website and the steps I have taken along the way to build it. 
-- 👀 I’m currently interested in developing my HTML, CSS, Django, and Cybersecurity.
+- 👀 I’m currently interested in developing my HTML, CSS, Django, Cybersecurity, and studying to take the Comptia Security+ Exam.
 - 🌱 I’m currently learning to improve some of my skills.
 - 💞️ I’m looking to collaborate on Django website. I am currently using the Maxx Potential's recommended resources to build this website, but am also using external tools. I am documenting mistakes I make along the way in my powerpoint and word document so that I can try to understand what I struggle on. I hope you follow me along on this journey!
 - 📫 How to reach me. 
