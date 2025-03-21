@@ -1,12 +1,17 @@
-- 👋 Hi, I’m Christian Kim, I created this github after following Maxx Potential's recommendation for "Introduction to the Command Line" and "Make a Website". While I am a beginner and only have a basic level knowledge of html and css, I am always willing to improve. Also I have never used python before, or built a python based web application before this, but I believe having a growth mindset and building new skills will help me in the long run! I hope you enjoy my website and the steps I have taken along the way to build it. To further improve my HTML/CSS skills after creating the django application, I have take the free HTML/CSS course by super simple dev and challenged myself to recreate Maxx Potential's Website. 
-- 👀 I’m currently interested in developing my HTML, CSS, Django, Cybersecurity, and studying to take the Comptia Security+ Exam.
-- 🌱 I’m currently learning to improve some of my skills.
-- 💞️ I’m looking to collaborate on Django website. I am currently using the Maxx Potential's recommended resources to build this website, but am also using external tools. I am documenting mistakes I make along the way in my powerpoint and word document so that I can try to understand what I struggle on. I hope you follow me along on this journey!
-- 📫 How to reach me. 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact (How I developed a love for technology): I first developed my love for technology as a kid because my mom would always ask me for help with her computer. Everytime I would help her, I would teach her skills and knowledge so that she wouldn't always rely on my help. Throughout the years she has developed the skills and ability to operate her computer, ipad, and iphone by herself. She now uses the skills she has developed to act as her church's mission group leader. She does all the planning, operating, scheduling, financing (collecting and paying for hotels, air bnb's rental cars, and flights). The growth mindset and willingness to learn have always been a part of what I believe makes not only a successful I.T professional, but also a sucessful overall person! I also have been inspired by a computer science game developer named Eric Barone. Eric Barone first created his game "Star Dew Valley", after college because he had trouble finding a job after graduating. He explained how he created Star Dew Valley as a personal project to put on his resume, but spent much more time on it and eventually released it. So I would say my mom and Eric Barone are two people who have inspired me to further develop my skills and work on personal projects. Some other personal projects I plan on working on are related to cybersecurity real job simulators via Forage.com. I recently came across the website Forage.com and they offer free job simulators to further develop your skills!
+👋 Hi, I'm Christian Kim! Welcome to my GitHub profile. I initially created this GitHub following Maxx Potential's recommended resources such as "Introduction to the Command Line" and "Make a Website." I have experience building web applications using HTML, CSS, JavaScript, Handlebars, SQL, Python, and Django, and I'm committed to continuously improving and expanding my skills.
 
-<!---
-christiankim364/christiankim364 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+To enhance my web development expertise, I've completed the HTML/CSS and JavaScript courses by SuperSimpleDev, and I've challenged myself to recreate Maxx Potential's website. I'm actively documenting my learning journey, including challenges and solutions, in both PowerPoint presentations and Word documents.
+
+👀 Currently, I'm interested in further developing my skills in HTML, CSS, JavaScript, Django, SQL, and Cybersecurity. I'm also studying to obtain my CompTIA Security+ certification.
+
+🌱 I am consistently looking for new resources and opportunities to advance my technical skills and knowledge.
+
+💞️ I'm open to collaboration, especially on Django-based web applications or any projects involving cybersecurity. Feel free to reach out if you'd like to work together or share ideas!
+
+📫 You can contact me through my GitHub profile.
+
+😄 Pronouns: He/Him
+
+⚡ Fun Fact (How I developed a love for technology): My passion for technology started during childhood when I frequently assisted my mom with her computer issues. I enjoyed not only fixing her problems but teaching her skills so she could independently handle her technology. Over the years, she grew proficient enough to manage her computer, iPad, and iPhone by herself, eventually becoming the leader of her church’s mission group. Her technological competence now enables her to efficiently plan and manage various logistical details like scheduling, budgeting, and coordinating travels. Additionally, Eric Barone, creator of "Stardew Valley," inspired me to pursue personal projects passionately and consistently, demonstrating the value of dedication and perseverance.
+
+Currently, I'm exploring cybersecurity through real-world job simulators on Forage.com, gaining practical experience and skills to prepare for professional roles. I hope you'll follow along with me on this exciting journey!
